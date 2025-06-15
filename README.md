@@ -1,11 +1,11 @@
 # 🧠 Memory Match Game  
-A feature-rich memory matching card game built with C++ and Raylib, designed to challenge players concentration with multiple difficulty levels. This project demonstrates object-oriented programming principles, custom data structures, and clean game state management.
+A feature-rich memory matching card game built with C++ and Raylib, designed to challenge players' concentration with multiple difficulty levels. This project demonstrates object-oriented programming principles, custom data structures, and clean game state management.
 
 ## 🎯 Overview
 Memory Match Game challenges players to find matching pairs of cards across three difficulty levels (Easy, Medium, Hard). Built with Raylib, it demonstrates object-oriented programming principles through custom implementations of strings (`MyStr`) and dynamic arrays (`MyVector`). The game tracks player moves and provides visual feedback for an engaging experience.
 
 ## 🗺 Flowchart
-[![Memory Match Game Flowchart](Assets/Images/flowchart.png)  ](https://github.com/bscs24066/Memory-Match-Game/blob/main/Flowchart.png?raw=true)
+![Memory Match Game Flowchart](https://github.com/bscs24066/Memory-Match-Game/blob/main/Flowchart.png?raw=true)  
 *Visual representation of game states and transitions*
 
 ## ✨ Features
@@ -21,8 +21,7 @@ Memory Match Game challenges players to find matching pairs of cards across thre
 - *Polymorphic Design*: Extensible level system through `GameLevel` hierarchy  
 
 ## 🧩 UML Diagram  
-[![Memory Match UML](Assets/Images/uml.png)  ](https://github.com/bscs24066/Memory-Match-Game/blob/main/UML.png?raw=true)
-
+![Memory Match UML](https://raw.githubusercontent.com/bscs24066/Memory-Match-Game/refs/heads/main/UML.png)  
 
 ## 🛠️ Technical Implementation
 - **OOP Principles**:  
