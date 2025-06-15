@@ -1,0 +1,17 @@
+﻿  GAME.cpp
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(74,49): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(74,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(75,47): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(75,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(76,46): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(76,46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(94,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(94,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(142,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(142,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(144,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Semester 2\LA\GAME\GAME\GAME.cpp(144,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GAME.vcxproj -> D:\Uni\Semester 2\LA\GAME\x64\Debug\GAME.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
